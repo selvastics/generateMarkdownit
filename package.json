@@ -1,0 +1,19 @@
+{
+  "name": "generatemarkdownit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "generateMarkdownIt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "markdown-it": "latest",
+    "highlight.js": "latest",
+    "markdown-it-toc-and-anchor": "latest",
+    "fs": "latest",
+    "path": "latest"
+  }
+}
